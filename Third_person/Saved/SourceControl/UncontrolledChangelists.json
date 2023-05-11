@@ -1,0 +1,51 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/Gunga.umap",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/materials/M_flooring.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/ThirdPerson/Input/Actions/IA_dash.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/materials/M_ground.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/ThirdPerson/Blueprints/BP_Yumpbox.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/materials/M_jumppad.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/blueprints/BP_bullet.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/assets/shitgun__1_.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/ThirdPerson/Input/Actions/IA_projectile.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/blueprints/BP_shitgun.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/blueprints/BP_Pickup_Rifle.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/blueprints/BP_thirdperson1.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/blueprints/BP_Yumpbox.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/AnimStarterPack/Ue4ASP_Character.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/Ue4ASP_Character1.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/blueprints/Ue4ASP_Character1.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/blueprints/BP_ThirdPersonGameMode1.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/ThirdPerson/Blueprints/BP_thirdperson1.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/assets/shitgun.uasset",
+				"C:/Users/gamer gamer gamer/Documents/Unreal Projects/Third_person/Content/NewMap.umap"
+			]
+		}
+	]
+}
